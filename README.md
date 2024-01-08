@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+- Demo: [https://firestock-76dc8.web.app](https://firestock-76dc8.web.app)
+- [https://firebase.google.com/docs/hosting](https://firebase.google.com/docs/hosting)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
